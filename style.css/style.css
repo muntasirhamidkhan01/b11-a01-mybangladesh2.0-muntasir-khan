@@ -1,0 +1,433 @@
+
+.fira-sans-regular {
+    font-family: "Fira Sans", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+*{
+    margin: 0px auto;
+    padding: 1px;
+}
+.background-color{
+   background-color: #F5F5F5;
+}
+    /* color styles */
+ .dark-01{
+    color: #0e0e0e;
+ }
+ .btn:hover {
+    background-color: #1e005a;
+    cursor: pointer; }     
+.navbar-container{
+    width:100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 24px 1px;
+}
+.navbar-container .bangladesh-nav-item{
+    font:32px;
+    font-weight: bold;
+    width: 222px;
+    height:38px;
+    margin-left: 103px ;
+}
+.nav-btn-item{
+    width: 119px;
+    height: 52px;
+    font-weight: 600;
+    color: #006a50;
+    background-color: white;
+    border-color: #006a50;
+    border-radius: 8px;
+    margin-right: 150px;
+}
+    /* banner-01 */
+#bangladesh-banner0{
+    text-align: center;
+}
+.bangladesh-banner1{
+    background-color: #C6E4D6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 84%;
+    height: 70%;
+    border-radius: 24px;
+    padding: 15px;
+}
+.bangladesh-banner1 .banner1-title{
+    color: #0e0e0e50;
+    font-size: 24px;
+    font-weight: 500;
+    width: 622px 28px;
+}
+.bangladesh-banner1 .banner1-subtitle{
+    width: 622px;
+    height: 201px;
+    font-size: 56px;
+    font-weight: bold;
+}
+.banner1-btn{
+    width: 273px;
+    height: 56px;
+    border-radius: 8px;
+    background-color: #006A50;
+    color: white;
+    font-weight: 500;
+    margin: 30px 0px 0px 0px;
+    font-weight: 600;
+    border: none;
+}
+.bangladesh-banner2-title{
+    width: 98%;
+    height: 48px;
+    font: bold;
+    font-size: 40px;
+    text-align: start;
+    margin-top: 80px;
+    margin-bottom: 32px;
+}
+.parent-box{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row;
+}       
+.child-box{
+    width: 295px;
+    height: 200px;
+    border-radius: 24px;
+    background-color: white;
+    margin: 14px;
+    padding: 20px;
+}
+.child-title{
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px;
+}
+.child-sub-description{
+    font-size: 16px;
+    color: #0e0e0e70;
+    /* padding-bottom: 0px;
+    margin-bottom: 0px; */
+} 
+ /* bangladesh- banner-02 */
+#bangladesh-banner2{
+    width: 88%;
+}
+#bangladesh-banner-3{
+    text-align: center;
+}
+.banner-container{
+    width: 87%;
+    /* background-color: rgb(216, 175, 255); */
+}
+.banner3-title{
+    font: 40px;
+    font-weight: bold;
+    margin: 30px 30px 30px 0px;
+}
+.banner3-description{
+    font-size: 16px;
+    color: #0e0e0e70;
+    margin-bottom: 30px;
+}
+.banner-03-card-description{
+    font-size: 16;
+    color: #0e0e0e70;
+}
+.banner3-btn-1{
+    width: 122px;
+    height: 41px;
+    border-radius: 8px;
+    padding: 11px 20px;
+    background-color: #5490F5;
+    color: white;
+    border: none;
+}
+.banner3-btn-2{
+    width: 122px;
+    height: 41px;
+    border-radius: 8px;
+    padding: 11px 20px;
+    background-color: #09A15C;
+    color: white;
+    border: none;
+}
+.banner3-btn-3{
+    width: 122px;
+    height: 41px;
+    border-radius: 8px;
+    padding: 11px 20px;
+    background-color: #FFC239;
+    color: white;
+    border: none;
+}
+.banner3-card-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    gap: 30px;
+}
+.banner3-card{
+    width: 410px;
+    height: 220px;
+    padding: 32px 32px 1px 32px ;
+    border-radius: 16px;
+}
+.color-1{
+    background-color: #5490F520;
+}
+.color-2{
+    background-color: #C6E4D6;
+}
+.color-3{
+    background-color: #F7EBCF;
+}
+           /* banner-4 */
+
+.bangladesh-banner4-parent{
+    background-color: #FFFFFF;
+    width: 84%;
+    height: 220px;
+    text-align: start;
+    border-radius: 16px;
+    margin-top: 20px;
+    margin-bottom: 60px;
+    padding: 0px 20px;
+}
+.bangladesh-banner4-description{
+    font-size: 16px;
+    color: #0e0e0eba;;
+}           
+.bangladesh-banner4-subtitle{
+    color: #0e0e0eba;;
+          /* banner-05 */
+}
+#bangladesh-banner5{
+    /* text-align: start; */
+    background-color: #09A15C;
+}
+.banner-05-title{
+    text-align: center;
+}
+.bangladesh-banner5-parent{
+    background-color: red;
+    width: 80%;
+    height: 345px;
+    display: flex;
+    justify-content: space-between;
+}
+    /* Recent-news-section */
+.recent-news-parent{
+    width:80%;
+    margin:80px 160px 32px 160px
+}
+.recent-news-title{
+    text-align: start;
+    margin-bottom: 10px;
+}
+.recent-news-description{
+    color: #0e0e0e70;
+}
+.img-links{
+    text-decoration: none;
+}
+.box-card{
+    padding: 48px;
+    background-color: white;
+    width: 80%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 24px;
+    margin-bottom: 24px;
+}
+.box-content{
+    margin-left: 20px;
+}
+.satelite-img{
+    width: 408px;
+    height: 306px;
+    border-radius: 24px;
+}
+.box-card-title{
+    font-size: 32px;
+    font: bold;
+}
+.al-jazeera-img{
+    padding: 10px;
+}
+.box-date-time{
+    margin-bottom: 5px;
+    /* text-align: justify center;
+    display: flex;
+    justify-content: start;
+    align-items: start;
+    flex-direction: row;
+    gap: 0px;
+    padding: 0px 0px;
+    margin: 0px 0px;
+    background-color: red */
+}
+.box-card-description{
+    color: #0E0E0E70;
+    margin-bottom: 30px;
+}
+.card-box-btn{
+    font-weight: 600;
+    color: white;
+    background-color: #006A50;
+    padding: 15px 40px;
+    border-radius: 8px;
+    border: none;
+
+}
+        /* Donate Today */
+#donate{
+    width: 78%;
+    height: 450px;
+    text-align: center;
+    margin: 80px auto 75px;
+}
+.donate-title{
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 16px;
+}
+.donate-description{
+    color: #0E0E0E70;
+}
+.taka-cards-box{
+ display: flex;
+ justify-content: space-around;
+ align-items: center;
+}
+.taka-items{
+    color: #0e0e0ec6;
+    font-size: 40px;
+    font-weight: bold;
+    width: 240px;
+    height: 128px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 16px;
+    margin:32px 24px auto 24px;
+}
+.taka-items-200{
+    color: #0e0e0ec6;
+    font-size: 40px;
+    font-weight: bold;
+    width: 240px;
+    height: 128px;
+    background-color: #C6E4D6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 16px;
+    margin:32px 24px auto 24px;
+}
+.amount-textbox-container{
+    margin: 32px 32px 26px 32px;
+}
+.amount-textbox{
+    text-align: center;
+    width: 80%;
+    padding: 20px 85px;
+    font-size: 20;
+    border: none;
+    font-weight: 500;
+}
+.amount-textbox-container ::placeholder{
+    color:#0E0E0E;opacity: 30%;
+}
+.amount-btn{
+    font-weight: 600;
+    margin-top: 1px;
+    padding: 17px 34px ;
+    border: none;
+    border-radius: 8px;
+    background-color:#006a50 ;
+    color: white;
+}
+    /* newsletter section */
+#newsletter-box{
+    width: 73%;
+    height: 250px;
+    background-color: #C6E4D6;
+    padding: 80px 100px;
+    text-align: center;
+    border-radius: 24px;
+}
+.newsletter-title{
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 16px;
+}
+.newsletter-description{
+    opacity: 70%;
+
+}
+.email-textholder{
+    padding: 18px 230px;
+    border: none; 
+    border-radius: 8px 0px 0px 8px;
+    margin-right: 0px; 
+}
+.email-textholder, ::placeholder{
+    color: #0e0e0e77;
+}
+.subscribe-btn{
+    font-size:bold;
+    color: white;
+    background-color: #006A50;
+    padding: 18px 29px ;
+    font-weight: 600;
+    margin-left: 0px;
+    border: none;
+    border-radius: 0px 8px 8px 0px;
+    cursor: pointer; 
+}
+.email-subscribe-box{
+    margin: 30px 0px 23px 0px; 
+}
+/* .align-placeholder-text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    gap: 0px;
+} */
+    /* footer */
+    #footer-bd{
+        background-color: white;
+        /* padding: 160px 50px; */
+        /* text-align: center; */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+    .footer-title{
+        font-size: 32px;
+        font-weight: bold;
+        margin: 50px 25px 0px 32px;
+    }
+    .footer-hr{
+        text-align: center;
+        width: 70%;
+        opacity: 30%;
+        margin-top: 50px;
+    }
+    .footer-icons-parent{
+        margin-top: 10px;
+    }
+    .footer-icons-child{
+        padding: 10px;
+    }    
