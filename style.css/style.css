@@ -423,6 +423,10 @@
 .email-subscribe-box{
     margin: 30px 0px 23px 0px; 
 }
+/* .email-textholder input::placeholder {
+        text-align: left;
+        color: gray;
+} */
 /* .align-placeholder-text{
     display: flex;
     justify-content: center;
@@ -456,4 +460,5 @@
     }
     .footer-icons-child{
         padding: 10px;
-    }    
+    } 
+
