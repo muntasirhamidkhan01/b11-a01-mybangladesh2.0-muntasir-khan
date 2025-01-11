@@ -205,10 +205,25 @@
     padding: 0px 20px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
+.bangladesh-banner4-img{
+    width: 100%;
+    height: auto; 
+    position: relative;
+}
+.bangladesh-banner4-img .img{
+    background-color: bisque;
+    width: 100%;
+    display: block ;
+}
 .bangladesh-banner4-description{
-    font-size: 16px;
-    color: #0e0e0eba;
-}           
+    position: absolute;
+    left: 0px;
+    top: 1305px;
+    margin: 150px;
+} 
+.bangladesh-banner4-title{
+    margin-top: 48px;
+}        
 .bangladesh-banner4-subtitle{
     color: #0e0e0eba;
           /* banner-05 */
@@ -374,6 +389,7 @@
     padding: 80px 100px;
     text-align: center;
     border-radius: 24px;
+    margin-bottom: 60px;
 }
 .newsletter-title{
     font-size: 40px;
