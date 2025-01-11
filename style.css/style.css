@@ -56,6 +56,7 @@
     height: 70%;
     border-radius: 24px;
     padding: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 .bangladesh-banner1 .banner1-title{
     color: #0e0e0e50;
@@ -102,6 +103,7 @@
     background-color: white;
     margin: 14px;
     padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 .child-title{
     font-size: 20px;
@@ -179,6 +181,7 @@
     height: 220px;
     padding: 32px 32px 1px 32px ;
     border-radius: 16px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 .color-1{
     background-color: #5490F520;
@@ -200,13 +203,14 @@
     margin-top: 20px;
     margin-bottom: 60px;
     padding: 0px 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 .bangladesh-banner4-description{
     font-size: 16px;
-    color: #0e0e0eba;;
+    color: #0e0e0eba;
 }           
 .bangladesh-banner4-subtitle{
-    color: #0e0e0eba;;
+    color: #0e0e0eba;
           /* banner-05 */
 }
 #bangladesh-banner5{
@@ -247,6 +251,7 @@
     align-items: center;
     border-radius: 24px;
     margin-bottom: 24px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 .box-content{
     margin-left: 20px;
@@ -320,6 +325,8 @@
     align-items: center;
     border-radius: 16px;
     margin:32px 24px auto 24px;
+    border: 1px solid;
+    border-color: #0e0e0e43;
 }
 .taka-items-200{
     color: #0e0e0ec6;
@@ -333,6 +340,8 @@
     align-items: center;
     border-radius: 16px;
     margin:32px 24px auto 24px;
+    border: 1px solid;
+    border-color: #0e0e0e43;
 }
 .amount-textbox-container{
     margin: 32px 32px 26px 32px;
